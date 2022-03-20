@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class HomeController {
 
 
-    @RequestMapping("/home")
+    @RequestMapping("/home")  //direct mapping no previous directory under static
     public String home() {
         return "home.html";
     }

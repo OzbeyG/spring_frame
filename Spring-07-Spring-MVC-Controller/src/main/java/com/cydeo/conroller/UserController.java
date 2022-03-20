@@ -11,6 +11,6 @@ public class UserController {
     @RequestMapping("/user")
     public String user() {
         return "user/userinfo.html";
-    }
+    } //user directory under static
 
 }

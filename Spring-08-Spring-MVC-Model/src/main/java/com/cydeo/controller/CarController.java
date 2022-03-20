@@ -19,7 +19,7 @@ public class CarController {
     }
 
 
-    @RequestMapping("/info2") //localhost:8080/car/info?make=Honda&year=2015
+    @RequestMapping("/info2") //localhost:8080/car/info2 => default=Tesla override info2?make=prius
     public String carInfo2(@RequestParam(value = "make",required = false,defaultValue = "Tesla") String make, Model model) {
         model.addAttribute("make",make);
 
