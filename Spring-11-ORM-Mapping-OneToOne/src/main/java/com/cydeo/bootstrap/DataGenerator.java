@@ -4,15 +4,16 @@ import com.cydeo.entity.Department;
 import com.cydeo.entity.Employee;
 import com.cydeo.entity.Region;
 import com.cydeo.enums.Gender;
-import com.cydeo.repository.DepartmentRepository;
 import com.cydeo.repository.EmployeeRepository;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+@Component
 public class DataGenerator implements CommandLineRunner {
 
     EmployeeRepository employeeRepository;
