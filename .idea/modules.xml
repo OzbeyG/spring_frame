@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring-00-Coupling/Spring-00-Coupling.iml" filepath="$PROJECT_DIR$/Spring-00-Coupling/Spring-00-Coupling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-02-Core-Wiring/Spring-02-Core-Wiring.iml" filepath="$PROJECT_DIR$/Spring-02-Core-Wiring/Spring-02-Core-Wiring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-03-Core-DI/Spring-03-Core-DI.iml" filepath="$PROJECT_DIR$/Spring-03-Core-DI/Spring-03-Core-DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-04-Abstraction/Spring-04-Abstraction.iml" filepath="$PROJECT_DIR$/Spring-04-Abstraction/Spring-04-Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-05-Core-BeanScope/Spring-05-Core-BeanScope.iml" filepath="$PROJECT_DIR$/Spring-05-Core-BeanScope/Spring-05-Core-BeanScope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-06-SpringBoot-Demo/Spring-06-SpringBoot-Demo.iml" filepath="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/Spring-06-SpringBoot-Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/Spring-07-Spring-MVC-Controller.iml" filepath="$PROJECT_DIR$/Spring-07-Spring-MVC-Controller/Spring-07-Spring-MVC-Controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-08-Spring-MVC-Model/Spring-08-Spring-MVC-Model.iml" filepath="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/Spring-08-Spring-MVC-Model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-09-Spring-Tymeleaf/Spring-09-Spring-Tymeleaf.iml" filepath="$PROJECT_DIR$/Spring-09-Spring-Tymeleaf/Spring-09-Spring-Tymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-10-ORM-TableCreation/Spring-10-ORM-TableCreation.iml" filepath="$PROJECT_DIR$/Spring-10-ORM-TableCreation/Spring-10-ORM-TableCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-11-ORM-Mapping-OneToOne/Spring-11-ORM-Mapping-OneToOne.iml" filepath="$PROJECT_DIR$/Spring-11-ORM-Mapping-OneToOne/Spring-11-ORM-Mapping-OneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-12-ORM-Mapping-OneToMany_ManyToMany/Spring-12-ORM-Mapping-OneToMany_ManyToMany.iml" filepath="$PROJECT_DIR$/Spring-12-ORM-Mapping-OneToMany_ManyToMany/Spring-12-ORM-Mapping-OneToMany_ManyToMany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-13-ORM-CinemaLab/Spring-13-ORM-CinemaLab.iml" filepath="$PROJECT_DIR$/Spring-13-ORM-CinemaLab/Spring-13-ORM-CinemaLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-14-ORM-Queries/Spring-14-ORM-Queries.iml" filepath="$PROJECT_DIR$/Spring-14-ORM-Queries/Spring-14-ORM-Queries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-15-REST/Spring-15-REST.iml" filepath="$PROJECT_DIR$/Spring-15-REST/Spring-15-REST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-16-REST-ConsumingApis/Spring-16-REST-ConsumingApis.iml" filepath="$PROJECT_DIR$/Spring-16-REST-ConsumingApis/Spring-16-REST-ConsumingApis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-21-UnitTesting-JUnit5/Spring-21-UnitTesting-JUnit5.iml" filepath="$PROJECT_DIR$/Spring-21-UnitTesting-JUnit5/Spring-21-UnitTesting-JUnit5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-22-UnitTesting-Mockito/Spring-22-UnitTesting-Mockito.iml" filepath="$PROJECT_DIR$/Spring-22-UnitTesting-Mockito/Spring-22-UnitTesting-Mockito.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_frame.iml" filepath="$PROJECT_DIR$/.idea/spring_frame.iml" />
+    </modules>
+  </component>
+</project>
